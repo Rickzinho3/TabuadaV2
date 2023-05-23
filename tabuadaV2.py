@@ -3,7 +3,7 @@
 import time
 import os
 
-#cores ansi
+#cores
 class colors:
     cyan = '\033[1;36m'
     white = '\033[1;97m'
